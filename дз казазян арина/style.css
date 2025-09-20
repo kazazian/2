@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto',sans-serif;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    align-items: center;
+    
+}
+.line{
+
+    border-left: 3px solid black;
+    padding-left: 17px;
+    margin-right: 100px;
+    
+}
+.section{
+    background-color:rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    width: 600px;
+    
+}
+.ul-dot{
+    margin-left: 16px;
+}
+.section1 {
+    
+    line-height: 35px;
+    padding-top: 80px;
+    padding-bottom: 36px;
+    width: 600px;
+    border-radius: 10px;
+    
+}
+.section2{
+    color: rgba(0, 0, 0, 0.4);
+    padding-bottom: 52px;
+    border-radius: 10px;
+    width:600px;
+    font-size: 19px;
+    line-height: 25px;
+    
+}
+.section3 {
+    font-size: 17px;
+    width: 600px;
+    line-height: 25px;
+}
+.section4 {
+    font-size: 26px;
+    width: 600px;
+    padding-bottom: 28px;
+    border-radius: 10px;
+    line-height: 25px;
+}
+.section44 {
+    font-size: 24px;
+    width: 600px;
+    padding-bottom: 28px;
+    border-radius: 10px;
+    line-height: 25px;
+}
+.sectionk {
+    font-size: 24px;
+    width: 600px;
+    padding-bottom: 28px;
+    border-radius: 10px;
+    line-height: 25px;
+    padding-top: 64px;
+}
+.section444 {
+    font-size: 22px;
+    width: 600px;
+    padding-bottom: 28px;
+    border-radius: 10px;
+    line-height: 25px;
+}
+.section5{
+    font-size: 17px;
+    width: 600px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    margin-left: 14px;
+    line-height: 25px;
+}
+.section6{
+    font-size: 17px;
+    width: 600px;
+    padding-bottom: 52px;
+    border-radius: 10px;
+    line-height: 25px;
+    
+}
+.section66{
+    font-size: 17px;
+    width: 600px;
+    padding-bottom: 0px;
+    border-radius: 10px;
+    line-height: 25px;
+    
+}
+.section7{
+    font-size: 17px;
+    width: 600px;
+    padding-bottom: 56px;
+    border-radius: 10px;
+    line-height: 25px;
+    padding-top: 52px;
+}
+.h1{
+    font-size: 20px;
+}
+img{
+    width:1020px;
+    
+}
+
